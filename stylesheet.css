@@ -1,0 +1,18 @@
+body {
+
+     background-color:bisque;
+}
+.container {
+    margin-top: 100px;
+}
+.text-center{
+    font-style: italic;
+    font-size: 50px;
+    color:black;
+    text-shadow:2px 2px 4px #373232;
+}
+h4{
+    font-style:italic;
+    color: black;
+    text-shadow: 2px 2px 4px #b3a0a0;
+}
